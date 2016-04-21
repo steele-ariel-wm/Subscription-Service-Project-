@@ -17,14 +17,14 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html" class="active">Chapter 1</a></li>
-                <li><a href="brownies.php">Chapter 2</a></li>
-                <li><a href="cakes.php">Chapter 3</a></li>
-                <li><a href="cookies.php">Chapter 4</a></li>
-                <li><a href="chocolates.php">Chapter 5</a></li>
-                <li><a href="pies.php">Chapter 6</a></li>
-                <li><a href="cart.php">Cart</a></li>
-                <li><a href="contactus.html">Contact </a></li>
-                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="chapter2.php">Chapter 2</a></li>
+                <li><a href="#">Chapter 3</a></li>
+                <li><a href="#">Chapter 4</a></li>
+                <li><a href="#">Chapter 5</a></li>
+                <li><a href="#">Chapter 6</a></li>
+                <li><a href="#">Cart</a></li>
+                <li><a href="#">Contact </a></li>
+                <li><a href="#">FAQ</a></li>
             </ul>
         </nav>
     </header>
